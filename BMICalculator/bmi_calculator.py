@@ -44,7 +44,5 @@ def calculate_bmi():
     print("\n===== Result =====")
     print(f"BMI: {bmi:.2f}")
     print(f"Category: {category}")
-
-
 if __name__ == "__main__":
     calculate_bmi()
